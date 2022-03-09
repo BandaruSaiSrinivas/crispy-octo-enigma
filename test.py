@@ -1,5 +1,5 @@
 pip install flask
-
+flask run
 from flask import Flask
 app = Flask(__name__)
 
